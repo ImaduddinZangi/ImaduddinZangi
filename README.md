@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @doctorzangi
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Angular Library
+- 👋 Hi, I’m @imaduddinzangi
+- 👀 I’m a professional of Front End Developer. I have a strong grip over html, css, tailwind, Javascript, React.js and Next.js.
+- 🌱 I’m currently working in a software company "Labverse" in Pakistan.
 
 <!---
 doctorzangi/doctorzangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
